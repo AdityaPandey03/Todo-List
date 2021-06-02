@@ -26,11 +26,11 @@ const item1 = new Item({
 });
 
 const item2 = new Item({
-    name: "Intro"
+    name: "Hit + to add new task"
 });
 
 const item3 = new Item({
-    name:"Introduction"
+    name:"<-Click on the checkBox to delete any task "
 });
 
 const defaultItems= [item1, item2, item3];
